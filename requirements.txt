@@ -1,0 +1,5 @@
+matplotlib==3.5.1
+matplotlib-inline==0.1.2
+numpy==1.21.5
+python-binance==1.0.15
+TA-Lib==0.4.23
