@@ -2,8 +2,10 @@
 利用幣安API抓取貨幣歷史資料,並使用不同交易策略、技術指標做獲利回測,目前仍在測試中
 
 ## Installation
+```bash
 pip install -r requirements.txt
-
+```
+or
 ```bash
 pip install python-binance
 pip install TA-Lib
